@@ -104,5 +104,5 @@ midterm-machine-learning/
 │   ├── models_classification.py
 │   ├── models_regression.py
 │   └── models_clustering.py
-├── requirements.txt
+|
 └── README.md
